@@ -1,1 +1,184 @@
+ <style>
+        .heading {
+            position: relative;
+            background-color: rgba(38, 46, 38, 0.897);
+            margin: 1% 18% 2% 18%;
+            padding-bottom: 20px;
+        }
 
+        .title {
+            color: rgb(255, 87, 51);
+            text-align: center;
+            padding-top: 20px;
+            padding-bottom: 0px;
+            font-size: 4vw;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        .title1 {
+            color: white;
+            position: absolute;
+            top: 60px;
+            left: 35%;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        .i-div {
+            position: absolute;
+            top: 35px;
+            left: 26%;
+            border-radius: 50%;
+            border: 2px solid white;
+            width: 59px;
+            height: 59px;
+        }
+
+        .i-div2 {
+            background-color: rgb(10, 206, 255);
+            border-radius: 50%;
+            border: 2px solid rgba(38, 46, 38, 0.897);
+            width: 55px;
+            height: 55px;
+        }
+
+        .i-h1 {
+            position: absolute;
+            top: 11px;
+            left: 33%;
+        }
+
+        .table {
+            border-collapse: collapse;
+            color: white;
+            margin: 2% 15% 2% 10%;
+            width: 80%;
+        }
+
+        .card {
+            color: white;
+            background-color: rgb(255, 87, 51);
+            margin: 2% 10% 2% 10%;
+            padding-bottom: 5%;
+            position: relative;
+        }
+
+        .card-2 {
+            color: white;
+            background-color: rgb(10, 206, 255);
+            margin: 2% 10% 2% 10%;
+            padding-bottom: 5%;
+            position: relative;
+        }
+
+        .card-3 {
+            color: white;
+            background-color: rgb(255, 191, 0);
+            margin: 2% 10% 2% 10%;
+            padding-bottom: 5%;
+            position: relative;
+        }
+
+        span {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 3vw;
+            font-weight: bold;
+        }
+
+        .u {
+            font-weight: bold;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        .card2-font {
+            color: rgba(38, 46, 38, 0.897);
+            position: absolute;
+            top: 20px;
+            left: 30%;
+        }
+
+        .card2-ftxt {
+            position: absolute;
+            top: 60px;
+            left: 40%;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        .text {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align: center;
+        }
+
+        .table2-content {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            padding-left: 15PX;
+            padding-right: 15PX;
+            padding-top: 20px;
+            padding-bottom: 5px;
+        }
+
+        .table3-title {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-weight: bolder;
+            padding-left: 20px;
+            padding-top: 20px;
+        }
+
+        .table3-p1-txt {
+            padding-top: 0px;
+            padding-left: 20px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        .table3-p3-txt {
+            padding-top: 15px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+        }
+
+        .table4-title {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-weight: bolder;
+            text-align: center;
+            padding-top: 40px;
+        }
+
+        .table4-p1 {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align: center;
+        }
+
+        .table4-title2 {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-weight: bolder;
+            text-align: center;
+            padding-top: 20px;
+        }
+
+        .card5-title {
+            padding-top: 40px;
+            padding-left: 40px;
+        }
+
+        .card5-p1 {
+            padding-left: 40px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        .fa1 {
+            color: rgba(38, 46, 38, 0.897)
+        }
+
+        .i-tv {
+            color: rgba(38, 46, 38, 0.897);
+            position: absolute;
+            top: 50px;
+            left: 75%;
+        }
+
+        .i-cycle {
+            color: rgb(255, 87, 51);
+            position: absolute;
+            top: 80px;
+            left: 75%;
+        }
+    </style>
